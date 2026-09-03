@@ -25,5 +25,5 @@ durante a graduação em Sistemas de Informação.
 
 ##  Contato
 
-- LinkedIn: [Yago Braz](linkedin.com/in/yago-braz-6a5588222)
+- LinkedIn: [linkedin.com/in/yago-braz-6a5588222]
 - E-mail: yagoavebraz@gmail.com
