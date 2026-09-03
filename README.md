@@ -16,3 +16,14 @@ meus estudos, projetos acadêmicos e experiências práticas com tecnologia.
 - Desenvolvimento de Sistemas
 - Testes de Software
 - Git e GitHub
+
+## Objetivo
+
+Continuar evoluindo profissionalmente na área de Tecnologia da Informação,
+unindo minha experiência prática em suporte com os conhecimentos adquiridos
+durante a graduação em Sistemas de Informação.
+
+##  Contato
+
+- LinkedIn: [Yago Braz](linkedin.com/in/yago-braz-6a5588222)
+- E-mail: yagoavebraz@gmail.com
