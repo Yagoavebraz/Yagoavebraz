@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Yagoavebraz
-- 👀 I’m interested in Estágio Profissional - Testes automatizados QA (Studying) ...
-- 🌱 I’m currently learning Programação Orientada a Objetos C#, framkeworks como Selenium e Testes de API, Analise e desenvolvimento de sistemas cursando; ...
-- 💞️ I’m looking to collaborate on  ...
-- 📫 How to reach me yagoavebraz@gmail.com ...
+Olá! Eu sou o Yago 
 
-<!---
-Yagoavebraz/Yagoavebraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Técnico de Informática |  Estudante de Sistemas de Informação
+
+Atuo na área de Tecnologia da Informação com suporte técnico, manutenção
+e resolução de problemas relacionados a hardware e software.
+
+Atualmente, curso Sistemas de Informação e utilizo o GitHub para registrar
+meus estudos, projetos acadêmicos e experiências práticas com tecnologia.
+
+##  Atualmente estudando
+
+- JavaScript
+- Programação Orientada a Objetos
+- SQL e Banco de Dados
+- Desenvolvimento de Sistemas
+- Testes de Software
+- Git e GitHub
